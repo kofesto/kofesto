@@ -1,10 +1,3 @@
----
-title: WaylonWalker
-date: '2020-17-05'
-spoiler: Short and Sweet Realtime Readme Template
-categories: ["short-and-sweet", "all-profile"]
-githubUsername: 'WaylonWalker'
----
 
 ### Hi 👋
 
