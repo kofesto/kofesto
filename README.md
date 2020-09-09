@@ -15,9 +15,9 @@ I'm Koffi K. Seglo. A Software developer/systems engineer with a bit of an accid
 
 You can reach out to me on 
 <a href="https://twitter.com/kofesto"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true" alt="Koffi Seglo's Twitter Profile"></a>&nbsp;
-
-
-__Thanks for checking out my profile!__
+[![KOFESTO TECHNOLOGIES](https://img.shields.io/static/v1?label=lucafluri.ch&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://www.kofestotech.com/)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/kofesto/)
+[![kofesto@hotmail.com](https://img.shields.io/static/v1?label=me@lucafluri.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:kofesto@hotmail.com)
 <!--
 **kofesto/kofesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
