@@ -18,6 +18,7 @@ I'm Koffi K. Seglo. A Software developer/systems engineer with a bit of an accid
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Rust" src="https://img.shields.io/badge/rust-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
 <img alt="PHP" src="https://img.shields.io/badge/php-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
+<img alt="Android" src="https://img.shields.io/badge/android-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
 
 💬 Ask me about things related to learning new things, develop skills on the go, productivity, performance enhancement and making work & life more enjoyable.
 
