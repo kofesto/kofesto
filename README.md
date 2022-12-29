@@ -9,7 +9,7 @@ FullStack Software Engineer
 * 🖥️  See my portfolio on [LinkedIn](https://linkedin.com/in/kofesto)
 * ✉️  You can contact me at [kofesto@hotmail.com](mailto:kofesto@hotmail.com)
 * 🚀  I'm currently working on [Salesplat](http://mysalesplat.com)
-* 🧠  I'm learning NodeJs, React
+* 🧠  I'm developing my skilss on Machine Learning, embedded system, Blockchain and Artificial Intelligent
 
 <a href="https://www.twitter.com/kofesto" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/kofesto?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
