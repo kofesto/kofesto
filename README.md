@@ -1,18 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Greatness Abolade
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Koffi Seglo
 ======================================================================================================================================
 
-FullStack Web Developer
+FullStack Software Engineer
 
 -----------------------
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [thegrtnxwall.me](https://mainstack.me/thegrtnx)
-* ✉️  You can contact me at [greatnessabolade@gmail.com](mailto:greatnessabolade@gmail.com)
-* 🚀  I'm currently working on [DotPedia](http://dotpedia.com.ng)
+* 🖥️  See my portfolio on [LinkedIn](https://linkedin.com/in/kofesto)
+* ✉️  You can contact me at [kofesto@hotmail.com](mailto:kofesto@hotmail.com)
+* 🚀  I'm currently working on [Salesplat](http://mysalesplat.com)
 * 🧠  I'm learning NodeJs, React
 
-<a href="https://www.twitter.com/thegrtnx" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/thegrtnx?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/kofesto" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/kofesto?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
