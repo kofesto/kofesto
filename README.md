@@ -9,7 +9,7 @@ FullStack Software Engineer
 * 🖥️  See my portfolio on [LinkedIn](https://linkedin.com/in/kofesto)
 * ✉️  You can contact me at [kofesto@hotmail.com](mailto:kofesto@hotmail.com)
 * 🚀  I'm currently working on [Salesplat](http://mysalesplat.com)
-* 🧠  I'm developing my skilss on Machine Learning, embedded system, Blockchain and Artificial Intelligent
+* 🧠  I'm currently developing my skills on Machine Learning, embedded system, Blockchain and Artificial Intelligence
 
 <a href="https://www.twitter.com/kofesto" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/kofesto?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -30,6 +30,7 @@ src="https://img.shields.io/twitter/follow/kofesto?logo=twitter&style=for-the-ba
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
+<a href="https://php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="Supabase" /></a>
 </p>
 
 
