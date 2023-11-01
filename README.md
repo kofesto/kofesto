@@ -8,7 +8,7 @@ FullStack Software Engineer
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio on [LinkedIn](https://linkedin.com/in/kofesto)
 * ✉️  You can contact me at [kofesto@hotmail.com](mailto:kofesto@hotmail.com)
-* 🚀  I'm currently working on [Salesplat](http://mysalesplat.com)
+* 🚀  I'm currently working at null
 * 🧠  I'm currently developing my skills on Machine Learning, embedded system, Blockchain and Artificial Intelligence
 
 <a href="https://www.twitter.com/kofesto" target="_blank" rel="noreferrer"><img
